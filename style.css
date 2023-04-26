@@ -1,0 +1,31 @@
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(93, 94, 105);
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(241, 236, 235);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:  rgb(19, 11, 11);
+  }
+  body{
+  background-position: cover;
+  }
+  
+  header{
+    background-color: blue;
+  }
